@@ -1,5 +1,6 @@
 # The Bus App
 
+
 ## About
 
 This repository contains the source code, deployment manifests and CI/CD pipelines for the bus application.
@@ -21,7 +22,7 @@ The CI pipeline does the following:
 
 ### CD
 
-The CD pipeline deploys the kubernetes manifests of the `taxi` app to the `dev` environment.
+The CD pipeline deploys the kubernetes manifests of the `bus` app to the `dev` environment.
 
 ### This is a demo applications 
 
